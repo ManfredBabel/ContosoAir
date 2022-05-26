@@ -6,7 +6,6 @@ steps:
   - task: Npm@1
     inputs:
       command: 'install'
-      workingDir: './'
       #customcommand: 'install --production'
   - script: |
       npm install
