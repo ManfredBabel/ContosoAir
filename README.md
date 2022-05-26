@@ -1,3 +1,7 @@
+
+[![Build Status](https://dev.azure.com/ManfredJGC-Organization/ContosoAir/_apis/build/status/ManfredBabel.ContosoAir?branchName=master)](https://dev.azure.com/ManfredJGC-Organization/ContosoAir/_build/latest?definitionId=24&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
