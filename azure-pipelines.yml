@@ -5,8 +5,8 @@ trigger:
 steps:
   - task: Npm@1
     inputs:
-      command: 'install'
-      #customcommand: 'install --production'
+      command: 'custom'
+      customcommand: 'install --production'
   - script: |
       npm install
       npm test
