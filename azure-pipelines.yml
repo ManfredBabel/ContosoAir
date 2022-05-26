@@ -6,10 +6,9 @@ steps:
   - task: Npm@1
     inputs:
       command: 'custom'
-      customcommand: 'install --production'
+      customcommand: 'install'
   - script: |
       npm install
-      npm install jest-cli
       npm test
     displayName: 'Run unit tests'
     continueOnError: true
