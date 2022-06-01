@@ -3,7 +3,7 @@
 
 https://dev.azure.com/ManfredJGC-Organization/ContosoAir/_apis/build/status/ManfredBabel.ContosoAir?branchName=master
 
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository. Manfred González Cambbronero.
+# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository. Manfred Jesús González Cambronero.
 
 
 # Microsoft.Github CI Demo
